@@ -1,0 +1,52 @@
+{
+  "updatedAt": 1789566253,
+  "updatedAtIso": "2026-09-16T13:44:13.725Z",
+  "chainId": 5042,
+  "block": 21164451,
+  "token": {
+    "address": "0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE",
+    "symbol": "SPRUND",
+    "priceUsd": 0,
+    "supply": 999891692.6255516,
+    "mcapUsd": 0
+  },
+  "ownedPools": [
+    {
+      "index": 0,
+      "pair": "USDC / SPRUND",
+      "token": "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1",
+      "symbol": "USDC",
+      "pool": "0x1CE3fD403150A7D58239286f885cA5f124927ECe",
+      "feeTier": 1,
+      "tvlUsd": 0,
+      "vol24hUsd": 0,
+      "fees24hUsd": 0,
+      "lifetimeFeesUsd": 0,
+      "amountToken": 2589.836078967908,
+      "amountPol": 597484425.1048287,
+      "tick": 345124,
+      "swaps24h": 3,
+      "points": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "totals": {
+    "tvlUsd": 0,
+    "vol24hUsd": 0,
+    "fees24hUsd": 0,
+    "lifetimeFeesUsd": 0
+  },
+  "ownedCount": 1,
+  "burnedRaw": "108307374448375672679517",
+  "burned": 108307.37444837567,
+  "dividendsRaw": "0",
+  "dividendsUsdc": 0,
+  "staked": 2407266.5208330904
+}
